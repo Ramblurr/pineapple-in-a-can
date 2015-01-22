@@ -26,7 +26,6 @@ exports.config = {
             }
         },
         stylesheets: {
-            defaultExtension: "styl",
             joinTo: "stylesheets/app.css",
             order: {
                 before: [

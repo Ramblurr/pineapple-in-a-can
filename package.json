@@ -20,7 +20,8 @@
     "dependencies": {
         "javascript-brunch": ".7.x",
         "css-brunch": "1.7.x",
-        "stylus-brunch": "1.8.x",
+        "less-brunch": "latest",
+        "autoprefixer-brunch": "~1.8.3",
         "handlebars-brunch": "1.7.x",
         "uglify-js-brunch": "1.7.x",
         "clean-css-brunch": "1.7.x",
