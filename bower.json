@@ -3,8 +3,8 @@
     "version": "0.0.1",
     "homepage": "",
     "dependencies": {
-        "marionette": "~2.2.0",
-        "bootstrap": "~3.3.0",
+        "marionette": "~2.3.1",
+        "bootstrap": "~3.3.2",
         "font-awesome": "~4.2.0",
         "swag": "~0.7.0"
     }
